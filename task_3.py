@@ -10,7 +10,5 @@ def task_3_1():
   else:
       move_right
 
-if not wall_is_on_the_right():
 if __name__ == '__main__':
     run_tasks()
-git comit -a -m""
